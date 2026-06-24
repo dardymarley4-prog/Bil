@@ -1,0 +1,6 @@
+{
+  "name": "SMILIFE",
+  "description": "Un réseau social positif pour partager des sourires, échanger des messages bienveillants et cultiver le bonheur au quotidien.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
